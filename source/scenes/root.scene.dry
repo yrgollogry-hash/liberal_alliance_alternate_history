@@ -598,11 +598,11 @@ Q.stampfer_advisor = 0; // Friedrich Stampfer
 set-bg: img/map_2.jpg
 new-page: true
 
-> *"Such a general development cannot be attributed to the false tactics of any single party or to the mistakes of individual leaders. On the contrary, the conduct of individual leaders is determined largely by the sentiments of the people as a whole. It would be erroneous, however, to regard the sentiments of the moment as reflecting the natural make-up and character of the people. They are merely the consequence of the special circumstances which have brought about this profound degradation of the entire nation."*
+> *"I understand if you feel uncertain about the future of Owlia. Perhaps you're worried about the Fith Republic dying like all the others. Maybe you're concerned about the trajectory of our economy. But that uncertainty is and always has been our greatest strength -- our ability to adapt, and survive, and will ourselves forward into the unknown."*
 
- - Karl Kautsky, *Hitlerism and Social Democracy*, 1934
+ - President SIr Logry, April 12, 2026
 
-This is a game of alternate history. While historical accuracy is a major concern, keep in mind that this is a *game*, and that any divergence from actual events will necessarily have to involve some element of make-believe. Nevertheless, please let the author know if there are any glaring mistakes.
+This is a game of OWLIA WOOOO AVE OWLIA
 
 For more information on the politics and government of the German Republic, see the "Library" page on the top left. If this is your first time playing the game, it is strongly recommended that you read at least some of this information.
 
@@ -655,10 +655,6 @@ audio: shuffle music/1928_1930/FruhlingsliedMendelssohn.mp3 music/1928_1930/AUF_
 new-page: true
 go-to: main if hand_size == 3; main.main_easy if hand_size == 4
 
-= 1928
-
-It is a bright time for German democracy. After a period of struggle, inflation is finally under control, and the economy is expanding steadily. In foreign policy, we have reached agreements with the Western powers and the Soviet Union that might make genuine peace a reality. 
-
-Now, the task of LIBERALLLLLLLLLLLLLLLLLLLLLLLL Democracy is to prepare for the next election. The bourgeois-right government of Wilhelm Marx is unpopular, and we stand to gain. Perhaps the next government will have a socialist majority.
+= July, 2026
 
 
